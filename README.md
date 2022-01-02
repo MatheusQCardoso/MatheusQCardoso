@@ -7,15 +7,23 @@ development since 2017 on my own and since 2020 professionaly, with great love f
 &nbsp;I currently have a job as a full mobile developer in a proeminent international company in the logistics sector - where i love working!
 
 ### :technologist: **Technologies**:
+
 - Swift (UIKit/SwiftUI)
 - Objective-C (iOS development)
 - JavaScript (React Native, NodeJS)
 - Java ME (Android)
 - SQL (Oracle SQL, PostgreSQL, MySQL, MSSQL Server)
 
-####Other:
+- Firebase (Firebase Messaging - Push Notifications, Firebase Authentication, Firebase Storage and Realtime Database)
+- OneSignal (Push Notifications)
+- AppCenter (CodePush - Publishing Automation)
+- Appium (Mobile App Testing)
+- Office365 (SMTP - Mass Emails)
+
+#### Other:
 - PHP (Front & Backend)
 - HTML, CSS
+
 
 <!---
 MatheusQCardoso/MatheusQCardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
