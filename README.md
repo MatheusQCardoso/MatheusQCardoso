@@ -17,7 +17,8 @@ development since 2017 on my own and since 2020 professionaly, with great love f
 - Firebase (Firebase Messaging - Push Notifications, Firebase Authentication, Firebase Storage and Realtime Database)
 - OneSignal (Push Notifications)
 - AppCenter (CodePush - Publishing Automation)
-- Appium (Mobile App Testing)
+- Appium (Android Test Automation)
+- XCTest (iOS Test Automation)
 - Office365 (SMTP - Mass Emails)
 
 #### Other:
